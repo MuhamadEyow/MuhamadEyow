@@ -7,7 +7,7 @@ I'm **Muhamad**, a computer science student at **Harvard Extension School** and 
 ## Projects
 
 - [**TeachLink**](https://github.com/SWDREMOTE/TeachLink) – A web application that connects students with teachers for booking and scheduling lessons
-## Projects
+
 
 - [final-project](https://github.com/SWDREMOTE/cscie12-final-project-SWDREMOTE), final course project for CSCI 12  
 - [astro-and-vue](https://github.com/SWDREMOTE/cscie12-astro-and-vue-SWDREMOTE), Astro and Vue integration project  
