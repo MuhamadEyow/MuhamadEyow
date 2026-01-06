@@ -22,7 +22,7 @@ I'm **Muhamad**, a computer science student at **Harvard University** and a soft
 
 ---
 
-## Coursework at Harvard University
+## At [Harvard University](https://www.harvard.edu), I completed the following courses:
 
 - [CSCI 80 – Artificial Intelligence with Python](https://coursebrowser.dce.harvard.edu/course/introduction-to-artificial-intelligence-with-python-3/)  
 - CSCI 151 – Introduction to Databases with SQL  
