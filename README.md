@@ -23,9 +23,7 @@ I'm **Muhamad**, a computer science student at **Harvard Extension School** and 
 ---
 
 ## Coursework
-- [CSCI 80 – Artificial Intelligence with Python](https://coursebrowser.dce.harvard.edu/course/introduction-to-artificial-intelligence-with-python-3/)
-
-- CSCI 80 – Artificial Intelligence with Python  
+- [CSCI 80 – Artificial Intelligence with Python](https://coursebrowser.dce.harvard.edu/course/introduction-to-artificial-intelligence-with-python-3/)  
 - CSCI 151 – Introduction to Databases with SQL  
 - CSCI 33A – Web Programming with Python and JavaScript  
 - CSCI 50 – Intensive Introduction to Computer Science  
